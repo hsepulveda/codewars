@@ -1,0 +1,5 @@
+Las pruebas unitarias omiten métodos como BeforeEach, AfterEach, BeforeAll, AfterAll porque las clases a testear son "static" por lo que
+no requieren la preparación de un ambiente de pruebas. Además, hasta el 5 kyu, que fue el nivel al cual llegué, aun no me pedía validación de entradas
+pues los ejercicios ya asumian de antemano una entrada idónea. En vista de esto, de las pruebas se pueden decir que están bien implementadas para
+el contexto idóneo de la kata pero en contextos reales donde no se presupone una entrada idónea serían insuficientes pues habría que testear datos distintos
+a los soportados por los métodos, entre otros.

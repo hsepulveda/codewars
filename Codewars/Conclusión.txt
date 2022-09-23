@@ -1,0 +1,4 @@
+Luego de esta experiencia en Codewars, página que no conocia con anterioridad, puedo concluir que aun me falta mucho para
+tener maestría en Java, lenguaje que he usado durante toda la carrera, sin embargo pienso que quizás hubiese podido llegar más
+lejos si es que hubiese tenido más tiempo. Sin embargo, me agradó la página y es probable que siga completando katas por hobbie, pues
+la dificultad de las mismas es bastante desafiante y pienso que ayuda a ejercitar bastante y a aumentar el nivel de programación.
